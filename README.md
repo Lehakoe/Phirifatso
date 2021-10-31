@@ -1,2 +1,2 @@
 # Phirifatso
-Kholo ea Boraro
+Kholo ea Boraro - .Net 6
